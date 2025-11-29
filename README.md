@@ -1,20 +1,47 @@
+# UDAANSETU
+
+Welcome to UDAANSETU!  
+UDAANSETU is your platform for seamless access to our AI-powered web app.
+
+---
+
+## Getting Started
+
+You can access and use the UDAANSETU website directly, without installing anything locally.
+
+## Features
+
+- User-friendly interface for interacting with our AI solutions.
+- No installation or setup required.
+- Designed to work across all major browsers.
+
+---
+
+## Need to run or develop locally?
+
+If you’d like to contribute or run the app yourself:
+
+1. Clone this repository.
+2. Ensure you have **Node.js** installed.
+3. Install dependencies:
+    ```
+    npm install
+    ```
+4. Set the `GEMINI_API_KEY` in `.env.local` to your Gemini API key.
+5. Start the app:
+    ```
+    npm run dev
+    ```
+6. Visit `http://localhost:3000` in your browser.
+
+---
+
+## Support
+
+If you have questions or need help, please open an issue in this repository.
+
+---
+
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img width="800" alt="UDAANSETU" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1kRCYuGgUTQ-VamHU0hOxc-ji7KsVk2vv
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
