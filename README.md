@@ -15,6 +15,8 @@ You can access and use the UDAANSETU website directly, without installing anythi
 - No installation or setup required.
 - Designed to work across all major browsers.
 
+  ## Direct Versel deployed link: https://udaan-setu.vercel.app/
+
 ---
 
 ## Need to run or develop locally?
@@ -42,6 +44,3 @@ If you have questions or need help, please open an issue in this repository.
 
 ---
 
-<div align="center">
-  <img width="800" alt="UDAANSETU" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
